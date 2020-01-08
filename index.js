@@ -17,10 +17,10 @@ let x =[];
 
 function iLoveTheBeatles(n){
 let x =[];
-let i = n;
- while(i< 15){
+let i = 0
+ do{
    x.push("I love the Beatles!");
    i++;
- }
+ }while(i< 15 && i<n)
  return x ;
 }
