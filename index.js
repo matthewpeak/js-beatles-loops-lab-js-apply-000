@@ -6,3 +6,19 @@ function theBeatlesPlay(dude,instrument){
  }
  return x 
 }
+
+function johnLennonFacts(facts){
+let x =[]
+ for(i=0;i<facts.length;i++){
+   x.push(facts[i]+"!!!")
+ }
+ return x 
+}
+
+function iLoveTheBeatles(n){
+let x =[]
+ for(i=0;i<n;i++){
+   x.push(facts[i]+"!!!")
+ }
+ return x 
+}
