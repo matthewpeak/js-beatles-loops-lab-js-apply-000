@@ -2,6 +2,6 @@
 function theBeatlesPlay(dude,instrument){
  let x =[]
  for(i=0;i<dude.length;i++){
-   x
+   x.push(dude[1]+" "+)
  }
 }
