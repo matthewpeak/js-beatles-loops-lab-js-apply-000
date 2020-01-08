@@ -8,19 +8,19 @@ function theBeatlesPlay(dude,instrument){
 }
 
 function johnLennonFacts(facts){
-let x =[]
+let x =[];
  for(let i=0;i<facts.length;i++){
-   x.push(facts[i]+"!!!")
+   x.push(facts[i]+"!!!");
  }
- return x 
+ return x ;
 }
 
 function iLoveTheBeatles(n){
-let x =[]
-let i = n
+let x =[];
+let i = n;
  while(i< 15){
    x.push("I love the Beatles!");
    i++;
  }
- return x 
+ return x ;
 }
