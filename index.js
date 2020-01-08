@@ -16,11 +16,14 @@ let x =[];
 }
 
 function iLoveTheBeatles(n){
-let x =[];
-let i = 0
+var x =[];
+var i = 0;
  do{
    x.push("I love the Beatles!");
    i++;
- }while(i <= 15 && i<n)
+ }while(i < 15 && i<=n)
  return x ;
 }
+
+
+
