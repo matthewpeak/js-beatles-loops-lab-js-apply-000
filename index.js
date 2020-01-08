@@ -18,6 +18,6 @@ let x =[]
 function iLoveTheBeatles(n){
 let x =[]
 let j = 0
- while
+ while 
  return x 
 }
