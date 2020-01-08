@@ -17,9 +17,10 @@ let x =[]
 
 function iLoveTheBeatles(n){
 let x =[]
-let j = 0
- while(j<5){
-   x.push("")
+let i = 0
+ while(i<5){
+   x.push("I love the Beatles!")
+   i++
  }
  return x 
 }
