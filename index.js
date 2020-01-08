@@ -15,14 +15,14 @@ let x =[];
  return x ;
 }
 
-function iLoveTheBeatles(n){
-var x =[];
-var i = 0;
- do{
-   x.push("I love the Beatles!");
-   i++;
- }while(i < 15 && i<=n)
- return x ;
+function iLoveTheBeatles(number) {
+  var arr = [];
+  var i = 0;
+  do {
+    arr.push('I love the Beatles!');
+    i++;
+  } while (i <= number && number < 15);
+  return arr;
 }
 
 
