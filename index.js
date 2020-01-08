@@ -18,7 +18,7 @@ let x =[]
 function iLoveTheBeatles(n){
 let x =[]
 let i = 0
- while(i<15 && i<=n){
+ while(i< n - 15){
    x.push("I love the Beatles!");
    i++;
  }
