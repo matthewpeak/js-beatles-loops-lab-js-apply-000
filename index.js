@@ -18,7 +18,7 @@ let x =[]
 function iLoveTheBeatles(n){
 let x =[]
  for(i=0;i<n;i++){
-   x.push(facts[i]+"!!!")
+   x.push("I love the Beatles!")
  }
  return x 
 }
